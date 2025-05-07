@@ -1,2 +1,0 @@
-sys_timestamp,event_timestamp,event_name,pause_num
-1675189620712,153081.90000000037,web_survey/MentalWellbeingSurvey_completed,-1

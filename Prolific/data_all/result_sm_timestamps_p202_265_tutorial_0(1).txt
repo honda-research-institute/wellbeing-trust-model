@@ -1,2 +1,0 @@
-sys_timestamp,event_timestamp,event_name,pause_num
-1676507413807,304891.7999997139,tutorial_end_done,7

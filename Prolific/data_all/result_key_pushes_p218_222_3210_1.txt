@@ -1,9 +1,0 @@
-sys_timestamp,vid_timestamp,event_name,key_number,pause_num,next_pause_vid_ts
-1676086404321,9.899031,video_keydown, ,0,-1
-1676086404463,10.040144,video_keyup, ,0,-1
-1676086415163,20.741126,video_keydown, ,0,-1
-1676086415550,21.127979,video_keyup, ,0,-1
-1676086416011,21.591609,video_keydown, ,0,-1
-1676086416326,21.5,video_keyup, ,1,-1
-1676086467806,24.056889,video_keydown, ,1,-1
-1676086467989,24.239158,video_keyup, ,1,-1

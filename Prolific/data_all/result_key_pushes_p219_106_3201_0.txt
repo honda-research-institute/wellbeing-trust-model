@@ -1,3 +1,0 @@
-sys_timestamp,vid_timestamp,event_name,key_number,pause_num,next_pause_vid_ts
-1675189843005,10.470804,video_keydown,b,0,-1
-1675189843055,10.52055,video_keyup,b,0,-1

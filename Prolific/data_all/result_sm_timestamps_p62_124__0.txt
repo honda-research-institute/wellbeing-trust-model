@@ -1,4 +1,0 @@
-sys_timestamp,event_timestamp,event_name,pause_num
-1676079005234,15346.899999976158,consent_agreed,-1
-1676079078667,88781.30000007153,finished_instructions,-1
-1676079097158,107282.30000007153,note_done,-1
