@@ -10,13 +10,14 @@ wellbeing-trust-model/
 │   ├── Appendix.pdf                   # Appendix of the paper (IJCAI)
 │   └──  supplementary_video_IJCAI.mp4 # supplementary video of the study
 ├── Prolific/
-│   └── data_all/                      # data collected from the study
+│   └── data_all/                      # data collected from the study __not all data provided
 ├── src/                               # Source code modules
 │   ├── 2TBN.py                        # DBN model implementation
 │   ├── kfold_2TBN.py                  # k-fold cross-validation for DBN
 │   ├── CID_2TBN.py                    # Causal Influence Model implementation
 │   ├── data_preprocessing.py          # Data preprocessing
 │   ├── make_data_dbn.py               # Convert processed data to DBN inputs
+│   ├── stat_tests.py                  # Statistical tests functions
 │   ├── main.py                        # Statistical analysis and visualization
 │   ├── policy_plot.py                 # Policy decision plot generator
 │   └── inferenceplot.py               # Inference result plot generator
