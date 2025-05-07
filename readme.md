@@ -79,7 +79,7 @@ python src/policy_plot.py \
 
 ### 5. Statistical Analysis & Visualization
 
-Estimate model parameters and plot results:
+statistical tests and ploting the inferences:
 ```bash
 python src/main.py
 python src/inferenceplot.py 
