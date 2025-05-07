@@ -6,6 +6,9 @@ A Python implementation of dynamic Bayesian networks (DBN) and causal influence 
 
 ```
 wellbeing-trust-model/
+├── Paper_supplementary_files/             
+│   ├── Appendix.pdf                  # Appendix of the paper (IJCAI)
+│   ├── supplementary_video_IJCAI.mp4 # supplementary video of the study
 ├── Prolific/
 │   └── data_all/                # data collected from the study
 ├── src/                         # Source code modules
