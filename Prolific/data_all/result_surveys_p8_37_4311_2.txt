@@ -1,0 +1,20 @@
+name,value
+mTurkID, p8
+subID,37
+drive_name,4311
+drive_index,2
+time_date,Mon Jan 30 2023 17:31:16 GMT-0600 (Central Standard Time)
+Page_15_SurveyPage_Question1_radio,Orange
+Page_15_SurveyPage_Question2_text,Scooter
+Page_15_SurveyPage_Question3_radio,26-35
+Page_15_SurveyPage_Question4_radio,Male
+Page_15_SurveyPage_Question5_radio,Other
+Page_15_SurveyPage_Question5_text,Culinary Arts
+Page_15_SurveyPage_Question6_radio,Associate degree
+Page_15_SurveyPage_Question7_radio,1
+Page_15_SurveyPage_Question8_radio,1
+Page_15_SurveyPage_Question9_radio,1
+Page_15_SurveyPage_Question10_radio,1
+Page_15_SurveyPage_Question11_checkbox,0
+Page_15_SurveyPage_Question13_checkbox,none
+Page_15_SurveyPage_Question16_radio,Yes

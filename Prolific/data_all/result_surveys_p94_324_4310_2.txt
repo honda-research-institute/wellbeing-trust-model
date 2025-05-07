@@ -1,0 +1,21 @@
+name,value
+mTurkID, p94
+subID,324
+drive_name,4310
+drive_index,2
+time_date,Wed Feb 15 2023 19:02:46 GMT-0600 (Central Standard Time)
+Page_15_SurveyPage_Question1_radio,Orange
+Page_15_SurveyPage_Question2_text,ai driven scooter
+Page_15_SurveyPage_Question3_radio,36-45
+Page_15_SurveyPage_Question4_radio,Male
+Page_15_SurveyPage_Question5_radio,Other
+Page_15_SurveyPage_Question5_text,gig worker
+Page_15_SurveyPage_Question6_radio,High_school_degree_or_equivalent
+Page_15_SurveyPage_Question7_radio,1
+Page_15_SurveyPage_Question8_radio,2
+Page_15_SurveyPage_Question9_radio,2
+Page_15_SurveyPage_Question10_radio,2
+Page_15_SurveyPage_Question11_checkbox,0
+Page_15_SurveyPage_Question12_radio,4
+Page_15_SurveyPage_Question13_checkbox,none
+Page_15_SurveyPage_Question16_radio,Yes

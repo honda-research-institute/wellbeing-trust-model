@@ -1,0 +1,10 @@
+name,value
+mTurkID, p187
+subID,95
+drive_name,tutorial
+drive_index,0
+time_date,Tue Jan 31 2023 12:24:19 GMT-0600 (Central Standard Time)
+Page_6_tutorial_Question_Intersection_0_Intention_radio,0
+Page_6_tutorial_Question_Intersection_0_trust_radio,5
+Page_6_tutorial_Question_Intersection_0_reliable_radio,5
+Page_6_tutorial_Question_Intersection_0_positive relation_radio,6

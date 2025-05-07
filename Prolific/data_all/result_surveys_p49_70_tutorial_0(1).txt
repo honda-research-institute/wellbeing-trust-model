@@ -1,0 +1,7 @@
+name,value
+mTurkID, p49
+subID,70
+drive_name,tutorial
+drive_index,0
+time_date,Mon Jan 30 2023 15:51:38 GMT-0800 (Pacific Standard Time)
+Page_7_SurveyPage_Question1_radio,yes

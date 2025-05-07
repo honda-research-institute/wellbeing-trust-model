@@ -1,0 +1,20 @@
+name,value
+mTurkID, p242
+subID,155
+drive_name,3201
+drive_index,2
+time_date,Fri Feb 10 2023 18:59:12 GMT-0700 (Mountain Standard Time)
+Page_15_SurveyPage_Question1_radio,Blue
+Page_15_SurveyPage_Question2_text,scooter
+Page_15_SurveyPage_Question3_radio,36-45
+Page_15_SurveyPage_Question4_radio,Male
+Page_15_SurveyPage_Question5_radio,Liberal Arts
+Page_15_SurveyPage_Question6_radio,Master's_degree (e.g. MA; MS; MEd)
+Page_15_SurveyPage_Question7_radio,1
+Page_15_SurveyPage_Question8_radio,1
+Page_15_SurveyPage_Question9_radio,1
+Page_15_SurveyPage_Question10_radio,1
+Page_15_SurveyPage_Question11_checkbox,0
+Page_15_SurveyPage_Question13_checkbox,none
+Page_15_SurveyPage_Question15_textarea,The delivery robots seemed pretty aggressive!
+Page_15_SurveyPage_Question16_radio,Yes

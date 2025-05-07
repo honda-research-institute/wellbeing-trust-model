@@ -1,0 +1,21 @@
+name,value
+mTurkID, p210
+subID,258
+drive_name,4300
+drive_index,2
+time_date,Wed Feb 15 2023 19:25:09 GMT-0500 (Eastern Standard Time)
+Page_15_SurveyPage_Question1_radio,Orange
+Page_15_SurveyPage_Question2_text,self driving scooter
+Page_15_SurveyPage_Question3_radio,46-55
+Page_15_SurveyPage_Question4_radio,Female
+Page_15_SurveyPage_Question5_radio,Other
+Page_15_SurveyPage_Question5_text,studied liberal arts; but occupation in home repair
+Page_15_SurveyPage_Question6_radio,Bachelor's_degree(e.g. BA; BS)
+Page_15_SurveyPage_Question7_radio,2
+Page_15_SurveyPage_Question8_radio,1
+Page_15_SurveyPage_Question9_radio,1
+Page_15_SurveyPage_Question10_radio,2
+Page_15_SurveyPage_Question11_checkbox,0
+Page_15_SurveyPage_Question12_radio,4
+Page_15_SurveyPage_Question13_checkbox,none
+Page_15_SurveyPage_Question16_radio,Yes

@@ -1,0 +1,64 @@
+sys_timestamp,vid_timestamp,event_name,key_number,pause_num,next_pause_vid_ts
+1675112665415,11.288897,tutorial_keydown,ArrowRight,2,-1
+1675112665565,11.438688,tutorial_keyup,ArrowRight,2,-1
+1675112665993,11.866601,tutorial_keydown,ArrowRight,2,-1
+1675112666111,11.984549,tutorial_keyup,ArrowRight,2,-1
+1675112666358,12.231248,tutorial_keydown,ArrowLeft,2,-1
+1675112666519,12.392282,tutorial_keyup,ArrowLeft,2,-1
+1675112669151,15.024073,tutorial_keydown, ,2,-1
+1675112669668,15.541404,tutorial_keydown, ,2,-1
+1675112669701,15.574201,tutorial_keydown, ,2,-1
+1675112669733,15.606578,tutorial_keydown, ,2,-1
+1675112669766,15.639918,tutorial_keydown, ,2,-1
+1675112669801,15.674461,tutorial_keydown, ,2,-1
+1675112669834,15.706956,tutorial_keydown, ,2,-1
+1675112669867,15.740008,tutorial_keydown, ,2,-1
+1675112669900,15.773019,tutorial_keydown, ,2,-1
+1675112669933,15.806428,tutorial_keydown, ,2,-1
+1675112669967,15.840161,tutorial_keydown, ,2,-1
+1675112670000,15.87313,tutorial_keydown, ,2,-1
+1675112670034,15.906968,tutorial_keydown, ,2,-1
+1675112670066,15.939018,tutorial_keydown, ,2,-1
+1675112670099,15.972291,tutorial_keydown, ,2,-1
+1675112670132,16.005514,tutorial_keydown, ,2,-1
+1675112670165,16.038675,tutorial_keydown, ,2,-1
+1675112670198,16.071879,tutorial_keydown, ,2,-1
+1675112670233,16.105954,tutorial_keydown, ,2,-1
+1675112670266,16.139413,tutorial_keydown, ,2,-1
+1675112670298,16.170975,tutorial_keydown, ,2,-1
+1675112670331,16.204502,tutorial_keydown, ,2,-1
+1675112670364,16.237709,tutorial_keydown, ,2,-1
+1675112670370,16.243176,tutorial_keyup, ,2,-1
+1675112670592,16.465798,tutorial_keydown, ,2,-1
+1675112670773,16.646467,tutorial_keyup, ,2,-1
+1675112671298,17.17099,tutorial_keydown, ,2,-1
+1675112671550,17.423547,tutorial_keyup, ,2,-1
+1675112756288,39.435535,tutorial_keydown, ,6,-1
+1675112756524,39.671783,tutorial_keyup, ,6,-1
+1675112762070,45.217755,tutorial_keydown, ,6,-1
+1675112762587,45.734293,tutorial_keydown, ,6,-1
+1675112762622,45.769904,tutorial_keydown, ,6,-1
+1675112762653,45.800286,tutorial_keydown, ,6,-1
+1675112762686,45.833698,tutorial_keydown, ,6,-1
+1675112762720,45.867648,tutorial_keydown, ,6,-1
+1675112762753,45.900473,tutorial_keydown, ,6,-1
+1675112762787,45.934437,tutorial_keydown, ,6,-1
+1675112762819,45.966854,tutorial_keydown, ,6,-1
+1675112762852,45.999391,tutorial_keydown, ,6,-1
+1675112762885,46.032656,tutorial_keydown, ,6,-1
+1675112762918,46.065971,tutorial_keydown, ,6,-1
+1675112762951,46.098935,tutorial_keydown, ,6,-1
+1675112762986,46,tutorial_keydown, ,7,-1
+1675112763018,46,tutorial_keydown, ,7,-1
+1675112763050,46,tutorial_keydown, ,7,-1
+1675112763083,46,tutorial_keydown, ,7,-1
+1675112763116,46,tutorial_keydown, ,7,-1
+1675112763151,46,tutorial_keydown, ,7,-1
+1675112763184,46,tutorial_keydown, ,7,-1
+1675112763217,46,tutorial_keydown, ,7,-1
+1675112763252,46,tutorial_keydown, ,7,-1
+1675112763283,46,tutorial_keydown, ,7,-1
+1675112763316,46,tutorial_keydown, ,7,-1
+1675112763350,46,tutorial_keydown, ,7,-1
+1675112763383,46,tutorial_keydown, ,7,-1
+1675112763409,46,tutorial_keyup, ,7,-1

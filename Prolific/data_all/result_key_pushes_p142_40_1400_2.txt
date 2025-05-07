@@ -1,0 +1,51 @@
+sys_timestamp,vid_timestamp,event_name,key_number,pause_num,next_pause_vid_ts
+1675122200023,63.8,video_keydown,Shift,3,-1
+1675122200233,63.8,video_keydown,S,3,-1
+1675122200368,63.8,video_keyup,S,3,-1
+1675122200418,63.8,video_keyup,Shift,3,-1
+1675122200919,63.8,video_keydown,e,3,-1
+1675122201053,63.8,video_keyup,e,3,-1
+1675122201080,63.8,video_keydown,l,3,-1
+1675122201222,63.8,video_keyup,l,3,-1
+1675122201264,63.8,video_keydown,f,3,-1
+1675122201367,63.8,video_keyup,f,3,-1
+1675122201445,63.8,video_keydown, ,3,-1
+1675122201563,63.8,video_keydown,d,3,-1
+1675122201571,63.8,video_keyup, ,3,-1
+1675122201719,63.8,video_keyup,d,3,-1
+1675122202355,63.8,video_keydown,r,3,-1
+1675122202484,63.8,video_keyup,r,3,-1
+1675122202810,63.8,video_keydown,i,3,-1
+1675122202955,63.8,video_keyup,i,3,-1
+1675122202982,63.8,video_keydown,v,3,-1
+1675122203093,63.8,video_keyup,v,3,-1
+1675122203156,63.8,video_keydown,i,3,-1
+1675122203301,63.8,video_keydown,n,3,-1
+1675122203374,63.8,video_keyup,i,3,-1
+1675122203433,63.8,video_keydown,g,3,-1
+1675122203465,63.8,video_keyup,n,3,-1
+1675122203548,63.8,video_keyup,g,3,-1
+1675122203638,63.8,video_keydown, ,3,-1
+1675122203775,63.8,video_keyup, ,3,-1
+1675122203832,63.8,video_keydown,s,3,-1
+1675122203966,63.8,video_keyup,s,3,-1
+1675122204059,63.8,video_keydown,c,3,-1
+1675122204192,63.8,video_keyup,c,3,-1
+1675122204242,63.8,video_keydown,o,3,-1
+1675122204332,63.8,video_keyup,o,3,-1
+1675122204423,63.8,video_keydown,o,3,-1
+1675122204530,63.8,video_keyup,o,3,-1
+1675122204544,63.8,video_keydown,t,3,-1
+1675122204663,63.8,video_keyup,t,3,-1
+1675122204733,63.8,video_keydown,e,3,-1
+1675122204866,63.8,video_keydown,r,3,-1
+1675122204916,63.8,video_keyup,e,3,-1
+1675122205013,63.8,video_keyup,r,3,-1
+1675122295363,63.8,video_keydown,n,3,-1
+1675122295465,63.8,video_keydown,o,3,-1
+1675122295512,63.8,video_keyup,n,3,-1
+1675122295606,63.8,video_keydown,n,3,-1
+1675122295647,63.8,video_keyup,o,3,-1
+1675122295727,63.8,video_keydown,e,3,-1
+1675122295734,63.8,video_keyup,n,3,-1
+1675122295853,63.8,video_keyup,e,3,-1

@@ -1,0 +1,22 @@
+name,value
+mTurkID, p79
+subID,302
+drive_name,1410
+drive_index,2
+time_date,Wed Feb 15 2023 17:26:12 GMT-0700 (Mountain Standard Time)
+Page_15_SurveyPage_Question1_radio,Orange
+Page_15_SurveyPage_Question2_text,self driving scooter
+Page_15_SurveyPage_Question3_radio,36-45
+Page_15_SurveyPage_Question4_radio,Male
+Page_15_SurveyPage_Question5_radio,Other
+Page_15_SurveyPage_Question5_text,banking
+Page_15_SurveyPage_Question6_radio,Bachelor's_degree(e.g. BA; BS)
+Page_15_SurveyPage_Question7_radio,1
+Page_15_SurveyPage_Question8_radio,1
+Page_15_SurveyPage_Question9_radio,2
+Page_15_SurveyPage_Question10_radio,1
+Page_15_SurveyPage_Question11_checkbox,2
+Page_15_SurveyPage_Question12_radio,5
+Page_15_SurveyPage_Question13_checkbox,none
+Page_15_SurveyPage_Question15_textarea,no issues; was fun and interesting; thanks
+Page_15_SurveyPage_Question16_radio,Yes

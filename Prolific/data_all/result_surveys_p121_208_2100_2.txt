@@ -1,0 +1,21 @@
+name,value
+mTurkID, p121
+subID,208
+drive_name,2100
+drive_index,2
+time_date,Fri Feb 10 2023 19:28:56 GMT-0700 (Mountain Standard Time)
+Page_15_SurveyPage_Question1_radio,Orange
+Page_15_SurveyPage_Question2_text,Scooter
+Page_15_SurveyPage_Question3_radio,26-35
+Page_15_SurveyPage_Question4_radio,Female
+Page_15_SurveyPage_Question5_radio,Education
+Page_15_SurveyPage_Question6_radio,Master's_degree (e.g. MA; MS; MEd)
+Page_15_SurveyPage_Question7_radio,1
+Page_15_SurveyPage_Question8_radio,0
+Page_15_SurveyPage_Question9_radio,1
+Page_15_SurveyPage_Question10_radio,1
+Page_15_SurveyPage_Question11_checkbox,1
+Page_15_SurveyPage_Question12_radio,6
+Page_15_SurveyPage_Question13_checkbox,Electricscooter
+Page_15_SurveyPage_Question14_radio,5
+Page_15_SurveyPage_Question16_radio,Yes

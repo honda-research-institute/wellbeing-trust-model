@@ -1,0 +1,33 @@
+sys_timestamp,vid_timestamp,event_name,key_number,pause_num,next_pause_vid_ts
+1676082971792,15.878006,tutorial_keydown, ,2,-1
+1676082971936,16.021619,tutorial_keyup, ,2,-1
+1676082980998,17.3,tutorial_keydown,ArrowLeft,3,-1
+1676082981198,17.3,tutorial_keyup,ArrowLeft,3,-1
+1676082996133,17.3,tutorial_keydown,ArrowUp,3,-1
+1676082996644,17.3,tutorial_keydown,ArrowUp,3,-1
+1676082996677,17.3,tutorial_keydown,ArrowUp,3,-1
+1676082996707,17.3,tutorial_keydown,ArrowUp,3,-1
+1676082996739,17.3,tutorial_keydown,ArrowUp,3,-1
+1676082996765,17.3,tutorial_keyup,ArrowUp,3,-1
+1676083008948,17.3,tutorial_keydown,ArrowUp,3,-1
+1676083009456,17.3,tutorial_keydown,ArrowUp,3,-1
+1676083009487,17.3,tutorial_keydown,ArrowUp,3,-1
+1676083009518,17.3,tutorial_keydown,ArrowUp,3,-1
+1676083009551,17.3,tutorial_keydown,ArrowUp,3,-1
+1676083009582,17.3,tutorial_keydown,ArrowUp,3,-1
+1676083009616,17.3,tutorial_keydown,ArrowUp,3,-1
+1676083009649,17.3,tutorial_keydown,ArrowUp,3,-1
+1676083009678,17.3,tutorial_keydown,ArrowUp,3,-1
+1676083009734,17.3,tutorial_keydown,ArrowUp,3,-1
+1676083009756,17.3,tutorial_keydown,ArrowUp,3,-1
+1676083009786,17.3,tutorial_keyup,ArrowUp,3,-1
+1676083016577,19.206461,tutorial_keydown,ArrowDown,3,-1
+1676083017009,19.638645,tutorial_keyup,ArrowDown,3,-1
+1676083055836,28.397107,tutorial_keydown,ArrowDown,4,-1
+1676083056339,28.900174,tutorial_keydown,ArrowDown,4,-1
+1676083056370,28.931766,tutorial_keydown,ArrowDown,4,-1
+1676083056379,28.940769,tutorial_keyup,ArrowDown,4,-1
+1676083115526,39,tutorial_keydown, ,6,-1
+1676083115821,39,tutorial_keyup, ,6,-1
+1676083116947,39,tutorial_keydown, ,6,-1
+1676083117131,39,tutorial_keyup, ,6,-1

@@ -1,0 +1,43 @@
+sys_timestamp,vid_timestamp,event_name,key_number,pause_num,next_pause_vid_ts
+1675122705081,1.022415,tutorial_keydown, ,1,-1
+1675122705267,1.208028,tutorial_keyup, ,1,-1
+1675122706190,2.131555,tutorial_keydown,ArrowUp,1,-1
+1675122706578,2.519763,tutorial_keyup,ArrowUp,1,-1
+1675122720453,13.876791,tutorial_keydown, ,2,-1
+1675122720955,14.379078,tutorial_keydown, ,2,-1
+1675122721002,14.426635,tutorial_keyup, ,2,-1
+1675122790477,39.687165,tutorial_keydown, ,6,-1
+1675122790977,40.187273,tutorial_keydown, ,6,-1
+1675122791060,40.270665,tutorial_keydown, ,6,-1
+1675122791145,40.355863,tutorial_keydown, ,6,-1
+1675122791228,40.438653,tutorial_keydown, ,6,-1
+1675122791313,40.523387,tutorial_keydown, ,6,-1
+1675122791396,40.607053,tutorial_keydown, ,6,-1
+1675122791480,40.69089,tutorial_keydown, ,6,-1
+1675122791507,40.71763,tutorial_keyup, ,6,-1
+1675122791979,41.190142,tutorial_keydown, ,6,-1
+1675122792482,41.69256,tutorial_keydown, ,6,-1
+1675122792566,41.776557,tutorial_keydown, ,6,-1
+1675122792648,41.858705,tutorial_keydown, ,6,-1
+1675122792733,41.943367,tutorial_keydown, ,6,-1
+1675122792816,42.027027,tutorial_keydown, ,6,-1
+1675122792899,42.109696,tutorial_keydown, ,6,-1
+1675122792983,42.193812,tutorial_keydown, ,6,-1
+1675122793065,42.27524,tutorial_keydown, ,6,-1
+1675122793079,42.290171,tutorial_keyup, ,6,-1
+1675122795037,44.24804,tutorial_keydown, ,6,-1
+1675122795536,44.746856,tutorial_keydown, ,6,-1
+1675122795624,44.834392,tutorial_keydown, ,6,-1
+1675122795705,44.915824,tutorial_keydown, ,6,-1
+1675122795791,45.001659,tutorial_keydown, ,6,-1
+1675122795873,45.083439,tutorial_keydown, ,6,-1
+1675122795959,45.169904,tutorial_keydown, ,6,-1
+1675122796041,45.251417,tutorial_keydown, ,6,-1
+1675122796127,45.337597,tutorial_keydown, ,6,-1
+1675122796210,45.420248,tutorial_keydown, ,6,-1
+1675122796291,45.501803,tutorial_keydown, ,6,-1
+1675122796377,45.58812,tutorial_keydown, ,6,-1
+1675122796460,45.670323,tutorial_keydown, ,6,-1
+1675122796461,45.672074,tutorial_keyup, ,6,-1
+1675122796760,45.97089,tutorial_keydown, ,6,-1
+1675122796958,46,tutorial_keyup, ,7,-1

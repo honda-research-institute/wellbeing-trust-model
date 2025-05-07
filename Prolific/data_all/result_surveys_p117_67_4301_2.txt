@@ -1,0 +1,25 @@
+name,value
+mTurkID, p117
+subID,67
+drive_name,4301
+drive_index,2
+time_date,Mon Jan 30 2023 15:49:51 GMT-0800 (Pacific Standard Time)
+Page_15_SurveyPage_Question1_radio,Orange
+Page_15_SurveyPage_Question2_text,Motorized Segway
+Page_15_SurveyPage_Question3_radio,18-25
+Page_15_SurveyPage_Question4_radio,Female
+Page_15_SurveyPage_Question5_radio,Technology
+Page_15_SurveyPage_Question6_radio,High_school_degree_or_equivalent
+Page_15_SurveyPage_Question7_radio,1
+Page_15_SurveyPage_Question8_radio,1
+Page_15_SurveyPage_Question9_radio,1
+Page_15_SurveyPage_Question10_radio,2
+Page_15_SurveyPage_Question11_checkbox,2
+Page_15_SurveyPage_Question11_checkbox,3
+Page_15_SurveyPage_Question12_radio,6
+Page_15_SurveyPage_Question13_checkbox,Electricscooter
+Page_15_SurveyPage_Question13_checkbox,Electric_bike
+Page_15_SurveyPage_Question13_checkbox,Segway
+Page_15_SurveyPage_Question14_radio,7
+Page_15_SurveyPage_Question15_textarea,No
+Page_15_SurveyPage_Question16_radio,No

@@ -1,0 +1,7 @@
+name,value
+mTurkID, p47
+subID,280
+drive_name,tutorial
+drive_index,0
+time_date,Wed Feb 15 2023 16:25:17 GMT-0800 (PST)
+Page_7_SurveyPage_Question1_radio,yes

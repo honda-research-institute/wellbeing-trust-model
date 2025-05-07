@@ -1,0 +1,23 @@
+name,value
+mTurkID, p89
+subID,321
+drive_name,4301
+drive_index,2
+time_date,Wed Feb 15 2023 19:35:17 GMT-0500 (Eastern Standard Time)
+Page_15_SurveyPage_Question1_radio,Orange
+Page_15_SurveyPage_Question2_text,A self driving scooter
+Page_15_SurveyPage_Question3_radio,36-45
+Page_15_SurveyPage_Question4_radio,Male
+Page_15_SurveyPage_Question5_radio,Other
+Page_15_SurveyPage_Question5_text,construction
+Page_15_SurveyPage_Question6_radio,High_school_degree_or_equivalent
+Page_15_SurveyPage_Question7_radio,1
+Page_15_SurveyPage_Question8_radio,0
+Page_15_SurveyPage_Question9_radio,0
+Page_15_SurveyPage_Question10_radio,0
+Page_15_SurveyPage_Question11_checkbox,1
+Page_15_SurveyPage_Question12_radio,4
+Page_15_SurveyPage_Question13_checkbox,none
+Page_15_SurveyPage_Question14_radio,4
+Page_15_SurveyPage_Question15_textarea,Everything was fine. All was clear and worked as it should.
+Page_15_SurveyPage_Question16_radio,Yes

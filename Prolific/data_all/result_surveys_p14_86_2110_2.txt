@@ -1,0 +1,19 @@
+name,value
+mTurkID, p14
+subID,86
+drive_name,2110
+drive_index,2
+time_date,Tue Jan 31 2023 12:24:09 GMT-0600 (Central Standard Time)
+Page_15_SurveyPage_Question1_radio,Orange
+Page_15_SurveyPage_Question2_text,Automated Scooter
+Page_15_SurveyPage_Question3_radio,18-25
+Page_15_SurveyPage_Question4_radio,Male
+Page_15_SurveyPage_Question5_radio,Liberal Arts
+Page_15_SurveyPage_Question6_radio,Bachelor's_degree(e.g. BA; BS)
+Page_15_SurveyPage_Question7_radio,2
+Page_15_SurveyPage_Question8_radio,2
+Page_15_SurveyPage_Question9_radio,2
+Page_15_SurveyPage_Question10_radio,1
+Page_15_SurveyPage_Question11_checkbox,0
+Page_15_SurveyPage_Question13_checkbox,none
+Page_15_SurveyPage_Question16_radio,Yes

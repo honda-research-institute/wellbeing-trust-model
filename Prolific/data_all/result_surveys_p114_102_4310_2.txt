@@ -1,0 +1,21 @@
+name,value
+mTurkID, p114
+subID,102
+drive_name,4310
+drive_index,2
+time_date,Tue Jan 31 2023 11:24:26 GMT-0700 (Mountain Standard Time)
+Page_15_SurveyPage_Question1_radio,Orange
+Page_15_SurveyPage_Question2_text,self driving scooter
+Page_15_SurveyPage_Question3_radio,18-25
+Page_15_SurveyPage_Question4_radio,Female
+Page_15_SurveyPage_Question5_radio,Liberal Arts
+Page_15_SurveyPage_Question6_radio,High_school_degree_or_equivalent
+Page_15_SurveyPage_Question7_radio,0
+Page_15_SurveyPage_Question8_radio,1
+Page_15_SurveyPage_Question9_radio,1
+Page_15_SurveyPage_Question10_radio,1
+Page_15_SurveyPage_Question11_checkbox,0
+Page_15_SurveyPage_Question12_radio,4
+Page_15_SurveyPage_Question13_checkbox,none
+Page_15_SurveyPage_Question15_textarea,No feedback
+Page_15_SurveyPage_Question16_radio,Yes

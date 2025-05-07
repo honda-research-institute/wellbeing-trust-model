@@ -1,0 +1,24 @@
+name,value
+mTurkID, p101
+subID,131
+drive_name,4301
+drive_index,2
+time_date,Fri Feb 10 2023 19:35:39 GMT-0600 (Central Standard Time)
+Page_15_SurveyPage_Question1_radio,Orange
+Page_15_SurveyPage_Question2_text,self-driving scooter
+Page_15_SurveyPage_Question3_radio,26-35
+Page_15_SurveyPage_Question4_radio,Female
+Page_15_SurveyPage_Question5_radio,Medicine
+Page_15_SurveyPage_Question6_radio,Bachelor's_degree(e.g. BA; BS)
+Page_15_SurveyPage_Question7_radio,1
+Page_15_SurveyPage_Question8_radio,1
+Page_15_SurveyPage_Question9_radio,2
+Page_15_SurveyPage_Question10_radio,2
+Page_15_SurveyPage_Question11_checkbox,1
+Page_15_SurveyPage_Question11_checkbox,2
+Page_15_SurveyPage_Question11_checkbox,4
+Page_15_SurveyPage_Question12_radio,7
+Page_15_SurveyPage_Question13_checkbox,Electricscooter
+Page_15_SurveyPage_Question14_radio,7
+Page_15_SurveyPage_Question15_textarea,Cool study. The numerous attention checks seemed unnecessary and appeared as if you did not trust your audience; I suggest eliminating some of them. Good luck with the study!
+Page_15_SurveyPage_Question16_radio,Yes

@@ -1,0 +1,3 @@
+sys_timestamp,event_timestamp,event_name,pause_num
+1676083196578,683531.8999999911,survey2_done,3
+1676083196578,683531.8999999911,finalexpriment_done,3

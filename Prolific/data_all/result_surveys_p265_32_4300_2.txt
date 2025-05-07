@@ -1,0 +1,26 @@
+name,value
+mTurkID, p265
+subID,32
+drive_name,4300
+drive_index,2
+time_date,Mon Jan 30 2023 15:25:00 GMT-0800 (Pacific Standard Time)
+Page_15_SurveyPage_Question1_radio,Orange
+Page_15_SurveyPage_Question2_text,eScooter
+Page_15_SurveyPage_Question3_radio,26-35
+Page_15_SurveyPage_Question4_radio,Male
+Page_15_SurveyPage_Question5_radio,Science
+Page_15_SurveyPage_Question6_radio,Associate degree
+Page_15_SurveyPage_Question7_radio,1
+Page_15_SurveyPage_Question8_radio,0
+Page_15_SurveyPage_Question9_radio,2
+Page_15_SurveyPage_Question10_radio,2
+Page_15_SurveyPage_Question11_checkbox,1
+Page_15_SurveyPage_Question11_checkbox,2
+Page_15_SurveyPage_Question11_checkbox,3
+Page_15_SurveyPage_Question11_checkbox,4
+Page_15_SurveyPage_Question11_checkbox,5
+Page_15_SurveyPage_Question12_radio,7
+Page_15_SurveyPage_Question13_checkbox,none
+Page_15_SurveyPage_Question14_radio,4
+Page_15_SurveyPage_Question15_textarea,I recalled that the delivery robot was white and yellow; but there was no choice for that. Closest option was orange. Please consider this when making a decision to reject my study or not. If so; let me know so I can return the study instead of rejecting the study. 
+Page_15_SurveyPage_Question16_radio,Yes

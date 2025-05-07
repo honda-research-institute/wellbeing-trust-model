@@ -1,0 +1,63 @@
+sys_timestamp,vid_timestamp,event_name,key_number,pause_num,next_pause_vid_ts
+1675109258461,6.31686,tutorial_keydown,ArrowRight,1,-1
+1675109258657,6.512788,tutorial_keyup,ArrowRight,1,-1
+1675109259030,6.886526,tutorial_keydown,ArrowRight,1,-1
+1675109259176,7.032215,tutorial_keyup,ArrowRight,1,-1
+1675109270449,15.285313,tutorial_keydown, ,2,-1
+1675109270946,15.782665,tutorial_keydown, ,2,-1
+1675109270993,15.829616,tutorial_keydown, ,2,-1
+1675109271024,15.860406,tutorial_keydown, ,2,-1
+1675109271055,15.891816,tutorial_keydown, ,2,-1
+1675109271087,15.922996,tutorial_keydown, ,2,-1
+1675109271116,15.952718,tutorial_keydown, ,2,-1
+1675109271148,15.984555,tutorial_keydown, ,2,-1
+1675109271177,16.013528,tutorial_keydown, ,2,-1
+1675109271224,16.060421,tutorial_keydown, ,2,-1
+1675109271255,16.090915,tutorial_keydown, ,2,-1
+1675109271286,16.122438,tutorial_keydown, ,2,-1
+1675109271317,16.153553,tutorial_keydown, ,2,-1
+1675109271350,16.186244,tutorial_keydown, ,2,-1
+1675109271377,16.213349,tutorial_keydown, ,2,-1
+1675109271409,16.24503,tutorial_keydown, ,2,-1
+1675109271444,16.280632,tutorial_keydown, ,2,-1
+1675109271446,16.282213,tutorial_keyup, ,2,-1
+1675109271602,16.438415,tutorial_keydown, ,2,-1
+1675109272100,16.936351,tutorial_keydown, ,2,-1
+1675109272145,16.981117,tutorial_keydown, ,2,-1
+1675109272176,17.012274,tutorial_keydown, ,2,-1
+1675109272208,17.044152,tutorial_keydown, ,2,-1
+1675109272241,17.077849,tutorial_keydown, ,2,-1
+1675109272272,17.108394,tutorial_keydown, ,2,-1
+1675109272303,17.139704,tutorial_keydown, ,2,-1
+1675109272313,17.148927,tutorial_keyup, ,2,-1
+1675109272471,17.307861,tutorial_keydown, ,2,-1
+1675109272641,17.477539,tutorial_keyup, ,2,-1
+1675109272754,17.3,tutorial_keydown, ,3,-1
+1675109272948,17.3,tutorial_keyup, ,3,-1
+1675109288433,19.558809,tutorial_keydown, ,3,-1
+1675109288952,19.5,tutorial_keydown, ,4,-1
+1675109288967,19.5,tutorial_keydown, ,4,-1
+1675109289012,19.5,tutorial_keydown, ,4,-1
+1675109289051,19.5,tutorial_keydown, ,4,-1
+1675109289067,19.5,tutorial_keydown, ,4,-1
+1675109289075,19.5,tutorial_keyup, ,4,-1
+1675109308750,25.680325,tutorial_keydown,AudioVolumeDown,4,-1
+1675109308818,25.749057,tutorial_keyup,AudioVolumeDown,4,-1
+1675109309159,26.089499,tutorial_keydown,AudioVolumeDown,4,-1
+1675109309280,26.21057,tutorial_keyup,AudioVolumeDown,4,-1
+1675109309564,26.494721,tutorial_keydown,AudioVolumeDown,4,-1
+1675109309670,26.600683,tutorial_keyup,AudioVolumeDown,4,-1
+1675109310807,27.737491,tutorial_keydown,AudioVolumeDown,4,-1
+1675109310922,27.85306,tutorial_keyup,AudioVolumeDown,4,-1
+1675109340493,35.928587,tutorial_keydown,AudioVolumeDown,5,-1
+1675109340630,36.066029,tutorial_keyup,AudioVolumeDown,5,-1
+1675109340964,36.399771,tutorial_keydown,AudioVolumeDown,5,-1
+1675109341097,36.53258,tutorial_keyup,AudioVolumeDown,5,-1
+1675109352622,39,tutorial_keydown, ,6,-1
+1675109352825,39,tutorial_keyup, ,6,-1
+1675109353104,39,tutorial_keydown, ,6,-1
+1675109353341,39,tutorial_keyup, ,6,-1
+1675109353552,39,tutorial_keydown, ,6,-1
+1675109353758,39,tutorial_keyup, ,6,-1
+1675109354011,39,tutorial_keydown, ,6,-1
+1675109354243,39,tutorial_keyup, ,6,-1

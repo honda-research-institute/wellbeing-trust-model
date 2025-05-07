@@ -1,0 +1,17 @@
+name,value
+mTurkID, p101
+subID,131
+drive_name,
+drive_index,0
+time_date,Fri Feb 10 2023 19:35:39 GMT-0600 (Central Standard Time)
+Page_3_SurveyPage_Question1_radio,7
+Page_3_SurveyPage_Question2_radio,7
+Page_3_SurveyPage_Question3_radio,7
+Page_3_SurveyPage_Question4_radio,7
+Page_3_SurveyPage_Question5_radio,7
+Page_3_SurveyPage_Question6_radio,7
+Page_3_SurveyPage_Question7_radio,7
+Page_3_SurveyPage_Question8_radio,7
+Page_3_SurveyPage_Question9_radio,7
+Page_3_SurveyPage_Question10_radio,7
+Page_3_SurveyPage_Question11_radio,0

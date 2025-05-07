@@ -1,0 +1,55 @@
+sys_timestamp,vid_timestamp,event_name,key_number,pause_num,next_pause_vid_ts
+1675190190235,71,video_keydown,Shift,3,-1
+1675190190346,71,video_keydown,S,3,-1
+1675190190451,71,video_keyup,S,3,-1
+1675190190490,71,video_keyup,Shift,3,-1
+1675190190644,71,video_keydown,e,3,-1
+1675190190778,71,video_keyup,e,3,-1
+1675190192042,71,video_keydown,l,3,-1
+1675190192171,71,video_keyup,l,3,-1
+1675190192195,71,video_keydown,f,3,-1
+1675190192298,71,video_keydown, ,3,-1
+1675190192347,71,video_keyup,f,3,-1
+1675190192450,71,video_keyup, ,3,-1
+1675190192714,71,video_keydown,d,3,-1
+1675190192844,71,video_keydown,i,3,-1
+1675190192867,71,video_keyup,d,3,-1
+1675190192867,71,video_keyup,i,3,-1
+1675190192906,71,video_keydown,r,3,-1
+1675190193011,71,video_keyup,r,3,-1
+1675190193202,71,video_keydown,=,3,-1
+1675190193291,71,video_keyup,=,3,-1
+1675190193533,71,video_keydown,Backspace,3,-1
+1675190193618,71,video_keyup,Backspace,3,-1
+1675190193698,71,video_keydown,Backspace,3,-1
+1675190193739,71,video_keyup,Backspace,3,-1
+1675190193834,71,video_keydown,Backspace,3,-1
+1675190193899,71,video_keyup,Backspace,3,-1
+1675190195242,71,video_keydown,r,3,-1
+1675190195330,71,video_keyup,r,3,-1
+1675190195386,71,video_keydown,i,3,-1
+1675190195490,71,video_keyup,i,3,-1
+1675190195530,71,video_keydown,v,3,-1
+1675190195644,71,video_keyup,v,3,-1
+1675190195644,71,video_keydown,i,3,-1
+1675190195746,71,video_keydown,n,3,-1
+1675190195877,71,video_keyup,i,3,-1
+1675190195898,71,video_keydown,g,3,-1
+1675190195942,71,video_keyup,n,3,-1
+1675190195987,71,video_keydown, ,3,-1
+1675190196093,71,video_keyup,g,3,-1
+1675190196178,71,video_keydown,s,3,-1
+1675190196203,71,video_keyup, ,3,-1
+1675190196307,71,video_keyup,s,3,-1
+1675190196442,71,video_keydown,c,3,-1
+1675190196619,71,video_keyup,c,3,-1
+1675190196634,71,video_keydown,o,3,-1
+1675190196698,71,video_keyup,o,3,-1
+1675190196794,71,video_keydown,o,3,-1
+1675190196923,71,video_keyup,o,3,-1
+1675190196941,71,video_keydown,t,3,-1
+1675190197050,71,video_keyup,t,3,-1
+1675190197124,71,video_keydown,e,3,-1
+1675190197211,71,video_keydown,r,3,-1
+1675190197258,71,video_keyup,e,3,-1
+1675190197274,71,video_keyup,r,3,-1

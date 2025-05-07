@@ -1,0 +1,251 @@
+sys_timestamp,vid_timestamp,event_name,key_number,pause_num,next_pause_vid_ts
+1675121465147,45,video_keydown,Shift,3,-1
+1675121465333,45,video_keydown,S,3,-1
+1675121465386,45,video_keyup,Shift,3,-1
+1675121465495,45,video_keydown,e,3,-1
+1675121465547,45,video_keyup,s,3,-1
+1675121465705,45,video_keyup,e,3,-1
+1675121465718,45,video_keydown,l,3,-1
+1675121465912,45,video_keyup,l,3,-1
+1675121465949,45,video_keydown,g,3,-1
+1675121466151,45,video_keyup,g,3,-1
+1675121466298,45,video_keydown, ,3,-1
+1675121466436,45,video_keyup, ,3,-1
+1675121466710,45,video_keydown,Backspace,3,-1
+1675121466826,45,video_keyup,Backspace,3,-1
+1675121466870,45,video_keydown,Backspace,3,-1
+1675121466957,45,video_keydown,f,3,-1
+1675121467008,45,video_keyup,Backspace,3,-1
+1675121467177,45,video_keyup,f,3,-1
+1675121467253,45,video_keydown, ,3,-1
+1675121467436,45,video_keyup, ,3,-1
+1675121467709,45,video_keydown,d,3,-1
+1675121467960,45,video_keydown,r,3,-1
+1675121467985,45,video_keyup,d,3,-1
+1675121468158,45,video_keyup,r,3,-1
+1675121468453,45,video_keydown,i,3,-1
+1675121468576,45,video_keyup,i,3,-1
+1675121468702,45,video_keydown,v,3,-1
+1675121468893,45,video_keyup,v,3,-1
+1675121468959,45,video_keydown,i,3,-1
+1675121469073,45,video_keyup,i,3,-1
+1675121469150,45,video_keydown,n,3,-1
+1675121469250,45,video_keydown,g,3,-1
+1675121469301,45,video_keyup,n,3,-1
+1675121469416,45,video_keyup,g,3,-1
+1675121469460,45,video_keydown, ,3,-1
+1675121469562,45,video_keyup, ,3,-1
+1675121469669,45,video_keydown,s,3,-1
+1675121469871,45,video_keyup,s,3,-1
+1675121470079,45,video_keydown,c,3,-1
+1675121470268,45,video_keyup,c,3,-1
+1675121470345,45,video_keydown,o,3,-1
+1675121470396,45,video_keyup,o,3,-1
+1675121470488,45,video_keydown,o,3,-1
+1675121470591,45,video_keyup,o,3,-1
+1675121470688,45,video_keydown,t,3,-1
+1675121470807,45,video_keydown,e,3,-1
+1675121470828,45,video_keyup,t,3,-1
+1675121470947,45,video_keydown,r,3,-1
+1675121471055,45,video_keyup,e,3,-1
+1675121471118,45,video_keyup,r,3,-1
+1675121482169,45,video_keydown,Shift,3,-1
+1675121482254,45,video_keydown,S,3,-1
+1675121482351,45,video_keyup,Shift,3,-1
+1675121482478,45,video_keyup,s,3,-1
+1675121482564,45,video_keydown,c,3,-1
+1675121482734,45,video_keyup,c,3,-1
+1675121482783,45,video_keydown,o,3,-1
+1675121482886,45,video_keyup,o,3,-1
+1675121482938,45,video_keydown,o,3,-1
+1675121483093,45,video_keyup,o,3,-1
+1675121483162,45,video_keydown,t,3,-1
+1675121483275,45,video_keydown,e,3,-1
+1675121483285,45,video_keyup,t,3,-1
+1675121483398,45,video_keydown,r,3,-1
+1675121483508,45,video_keyup,e,3,-1
+1675121483559,45,video_keyup,r,3,-1
+1675121483580,45,video_keydown,.,3,-1
+1675121483790,45,video_keyup,.,3,-1
+1675121483914,45,video_keydown, ,3,-1
+1675121484048,45,video_keyup, ,3,-1
+1675121484115,45,video_keydown, ,3,-1
+1675121484195,45,video_keyup, ,3,-1
+1675121484236,45,video_keydown,Shift,3,-1
+1675121484367,45,video_keydown,H,3,-1
+1675121484457,45,video_keyup,Shift,3,-1
+1675121484490,45,video_keyup,h,3,-1
+1675121484531,45,video_keydown,o,3,-1
+1675121484678,45,video_keyup,o,3,-1
+1675121484737,45,video_keydown,p,3,-1
+1675121484889,45,video_keydown,e,3,-1
+1675121484923,45,video_keyup,p,3,-1
+1675121485067,45,video_keyup,e,3,-1
+1675121485071,45,video_keydown, ,3,-1
+1675121485174,45,video_keyup, ,3,-1
+1675121485179,45,video_keydown,Shift,3,-1
+1675121485197,45,video_keydown,I,3,-1
+1675121485340,45,video_keyup,I,3,-1
+1675121485380,45,video_keyup,Shift,3,-1
+1675121485401,45,video_keydown, ,3,-1
+1675121485490,45,video_keyup, ,3,-1
+1675121485675,45,video_keydown,a,3,-1
+1675121485825,45,video_keydown,m,3,-1
+1675121485873,45,video_keyup,a,3,-1
+1675121485986,45,video_keyup,m,3,-1
+1675121486026,45,video_keydown, ,3,-1
+1675121486151,45,video_keyup, ,3,-1
+1675121486197,45,video_keydown,d,3,-1
+1675121486364,45,video_keyup,d,3,-1
+1675121486406,45,video_keydown,e,3,-1
+1675121486613,45,video_keyup,e,3,-1
+1675121486665,45,video_keydown,s,3,-1
+1675121486854,45,video_keyup,s,3,-1
+1675121486961,45,video_keydown,c,3,-1
+1675121487162,45,video_keyup,c,3,-1
+1675121487223,45,video_keydown,r,3,-1
+1675121487395,45,video_keyup,r,3,-1
+1675121487426,45,video_keydown,i,3,-1
+1675121487589,45,video_keyup,i,3,-1
+1675121487676,45,video_keydown,b,3,-1
+1675121487853,45,video_keyup,b,3,-1
+1675121487915,45,video_keydown,i,3,-1
+1675121488013,45,video_keyup,i,3,-1
+1675121488102,45,video_keydown,n,3,-1
+1675121488148,45,video_keydown,g,3,-1
+1675121488254,45,video_keyup,n,3,-1
+1675121488351,45,video_keydown, ,3,-1
+1675121488374,45,video_keyup,g,3,-1
+1675121488483,45,video_keydown,t,3,-1
+1675121488504,45,video_keyup, ,3,-1
+1675121488624,45,video_keydown,h,3,-1
+1675121488662,45,video_keyup,t,3,-1
+1675121488730,45,video_keydown,a,3,-1
+1675121488751,45,video_keyup,h,3,-1
+1675121488839,45,video_keydown,t,3,-1
+1675121488889,45,video_keyup,a,3,-1
+1675121489004,45,video_keydown, ,3,-1
+1675121489014,45,video_keyup,t,3,-1
+1675121489142,45,video_keyup, ,3,-1
+1675121489467,45,video_keydown,r,3,-1
+1675121489618,45,video_keyup,r,3,-1
+1675121489632,45,video_keydown,i,3,-1
+1675121489768,45,video_keyup,i,3,-1
+1675121489985,45,video_keydown,g,3,-1
+1675121490165,45,video_keyup,g,3,-1
+1675121490234,45,video_keydown,h,3,-1
+1675121490373,45,video_keyup,h,3,-1
+1675121490377,45,video_keydown,t,3,-1
+1675121490502,45,video_keyup,t,3,-1
+1675121499534,45,video_keydown,Shift,3,-1
+1675121499658,45,video_keydown,A,3,-1
+1675121499737,45,video_keyup,Shift,3,-1
+1675121499845,45,video_keyup,a,3,-1
+1675121499881,45,video_keydown,n,3,-1
+1675121500074,45,video_keyup,n,3,-1
+1675121500080,45,video_keydown,i,3,-1
+1675121500206,45,video_keyup,i,3,-1
+1675121500282,45,video_keydown,m,3,-1
+1675121500428,45,video_keydown,a,3,-1
+1675121500478,45,video_keyup,m,3,-1
+1675121500579,45,video_keydown,l,3,-1
+1675121500604,45,video_keyup,a,3,-1
+1675121500799,45,video_keyup,l,3,-1
+1675121501081,45,video_keydown, ,3,-1
+1675121501182,45,video_keyup, ,3,-1
+1675121501187,45,video_keydown,Shift,3,-1
+1675121501406,45,video_keydown,W,3,-1
+1675121501442,45,video_keyup,Shift,3,-1
+1675121501504,45,video_keydown,e,3,-1
+1675121501581,45,video_keyup,w,3,-1
+1675121501702,45,video_keyup,e,3,-1
+1675121501731,45,video_keydown,l,3,-1
+1675121501889,45,video_keyup,l,3,-1
+1675121502208,45,video_keydown,f,3,-1
+1675121502400,45,video_keyup,f,3,-1
+1675121502405,45,video_keydown,a,3,-1
+1675121502617,45,video_keyup,a,3,-1
+1675121502621,45,video_keydown,r,3,-1
+1675121502786,45,video_keyup,r,3,-1
+1675121502867,45,video_keydown,e,3,-1
+1675121503010,45,video_keyup,e,3,-1
+1675121557980,45,video_keydown,Shift,3,-1
+1675121558272,45,video_keydown,T,3,-1
+1675121558353,45,video_keyup,Shift,3,-1
+1675121558484,45,video_keyup,t,3,-1
+1675121558528,45,video_keydown,h,3,-1
+1675121558595,45,video_keydown,a,3,-1
+1675121558693,45,video_keyup,h,3,-1
+1675121558749,45,video_keyup,a,3,-1
+1675121558842,45,video_keydown,n,3,-1
+1675121559010,45,video_keyup,n,3,-1
+1675121559122,45,video_keydown,k,3,-1
+1675121559318,45,video_keyup,k,3,-1
+1675121559364,45,video_keydown, ,3,-1
+1675121559475,45,video_keyup, ,3,-1
+1675121559597,45,video_keydown,y,3,-1
+1675121559702,45,video_keydown,o,3,-1
+1675121559732,45,video_keyup,y,3,-1
+1675121559789,45,video_keydown,u,3,-1
+1675121559894,45,video_keyup,o,3,-1
+1675121559953,45,video_keyup,u,3,-1
+1675121560085,45,video_keydown,.,3,-1
+1675121560301,45,video_keyup,.,3,-1
+1675121560314,45,video_keydown, ,3,-1
+1675121560424,45,video_keyup, ,3,-1
+1675121560503,45,video_keydown, ,3,-1
+1675121560581,45,video_keydown,Shift,3,-1
+1675121560622,45,video_keyup, ,3,-1
+1675121560726,45,video_keydown,T,3,-1
+1675121560775,45,video_keyup,Shift,3,-1
+1675121560804,45,video_keydown,h,3,-1
+1675121560905,45,video_keyup,t,3,-1
+1675121560964,45,video_keyup,h,3,-1
+1675121561006,45,video_keydown,i,3,-1
+1675121561107,45,video_keydown,s,3,-1
+1675121561112,45,video_keyup,i,3,-1
+1675121561270,45,video_keyup,s,3,-1
+1675121561274,45,video_keydown, ,3,-1
+1675121561385,45,video_keyup, ,3,-1
+1675121561423,45,video_keydown,w,3,-1
+1675121561621,45,video_keyup,w,3,-1
+1675121561639,45,video_keydown,a,3,-1
+1675121561758,45,video_keydown,s,3,-1
+1675121561864,45,video_keyup,a,3,-1
+1675121561939,45,video_keydown, ,3,-1
+1675121561955,45,video_keyup,s,3,-1
+1675121562066,45,video_keyup, ,3,-1
+1675121562157,45,video_keydown,i,3,-1
+1675121562281,45,video_keyup,i,3,-1
+1675121562326,45,video_keydown,n,3,-1
+1675121562515,45,video_keyup,n,3,-1
+1675121562570,45,video_keydown,t,3,-1
+1675121562723,45,video_keydown,e,3,-1
+1675121562743,45,video_keyup,t,3,-1
+1675121562876,45,video_keydown,r,3,-1
+1675121562966,45,video_keyup,e,3,-1
+1675121563056,45,video_keyup,r,3,-1
+1675121563085,45,video_keydown,s,3,-1
+1675121563258,45,video_keyup,s,3,-1
+1675121563979,45,video_keydown,Backspace,3,-1
+1675121564098,45,video_keyup,Backspace,3,-1
+1675121564882,45,video_keydown,i,3,-1
+1675121564976,45,video_keyup,i,3,-1
+1675121565158,45,video_keydown,e,3,-1
+1675121565294,45,video_keyup,e,3,-1
+1675121565591,45,video_keydown,Backspace,3,-1
+1675121565695,45,video_keyup,Backspace,3,-1
+1675121565763,45,video_keydown,Backspace,3,-1
+1675121565873,45,video_keyup,Backspace,3,-1
+1675121568739,45,video_keydown,e,3,-1
+1675121568875,45,video_keyup,e,3,-1
+1675121568966,45,video_keydown,s,3,-1
+1675121569126,45,video_keyup,s,3,-1
+1675121569212,45,video_keydown,t,3,-1
+1675121569365,45,video_keyup,t,3,-1
+1675121569396,45,video_keydown,i,3,-1
+1675121569504,45,video_keyup,i,3,-1
+1675121569561,45,video_keydown,n,3,-1
+1675121569682,45,video_keyup,n,3,-1
+1675121569690,45,video_keydown,g,3,-1
+1675121569793,45,video_keyup,g,3,-1

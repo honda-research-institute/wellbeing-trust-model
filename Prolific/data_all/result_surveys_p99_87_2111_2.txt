@@ -1,0 +1,24 @@
+name,value
+mTurkID, p99
+subID,87
+drive_name,2111
+drive_index,2
+time_date,Tue Jan 31 2023 10:24:10 GMT-0800 (Pacific Standard Time)
+Page_15_SurveyPage_Question1_radio,Orange
+Page_15_SurveyPage_Question2_text,An autonomous scooter
+Page_15_SurveyPage_Question3_radio,18-25
+Page_15_SurveyPage_Question4_radio,Male
+Page_15_SurveyPage_Question5_radio,Medicine
+Page_15_SurveyPage_Question6_radio,Bachelor's_degree(e.g. BA; BS)
+Page_15_SurveyPage_Question7_radio,1
+Page_15_SurveyPage_Question8_radio,1
+Page_15_SurveyPage_Question9_radio,2
+Page_15_SurveyPage_Question10_radio,2
+Page_15_SurveyPage_Question11_checkbox,1
+Page_15_SurveyPage_Question11_checkbox,2
+Page_15_SurveyPage_Question11_checkbox,4
+Page_15_SurveyPage_Question11_checkbox,5
+Page_15_SurveyPage_Question12_radio,6
+Page_15_SurveyPage_Question13_checkbox,Electricscooter
+Page_15_SurveyPage_Question14_radio,5
+Page_15_SurveyPage_Question16_radio,Yes

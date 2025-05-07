@@ -1,0 +1,17 @@
+name,value
+mTurkID, p93
+subID,323
+drive_name,
+drive_index,0
+time_date,Wed Feb 15 2023 16:38:59 GMT-0800 (Pacific Standard Time)
+Page_3_SurveyPage_Question1_radio,5
+Page_3_SurveyPage_Question2_radio,6
+Page_3_SurveyPage_Question3_radio,6
+Page_3_SurveyPage_Question4_radio,5
+Page_3_SurveyPage_Question5_radio,6
+Page_3_SurveyPage_Question6_radio,4
+Page_3_SurveyPage_Question7_radio,5
+Page_3_SurveyPage_Question8_radio,7
+Page_3_SurveyPage_Question9_radio,7
+Page_3_SurveyPage_Question10_radio,5
+Page_3_SurveyPage_Question11_radio,0

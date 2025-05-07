@@ -1,0 +1,23 @@
+name,value
+mTurkID, p125
+subID,63
+drive_name,3211
+drive_index,2
+time_date,Mon Jan 30 2023 17:45:48 GMT-0600 (Central Standard Time)
+Page_15_SurveyPage_Question1_radio,Orange
+Page_15_SurveyPage_Question2_text,self driving sidewalk scooter
+Page_15_SurveyPage_Question3_radio,36-45
+Page_15_SurveyPage_Question4_radio,Female
+Page_15_SurveyPage_Question5_radio,Other
+Page_15_SurveyPage_Question5_text,manufacturing
+Page_15_SurveyPage_Question6_radio,Bachelor's_degree(e.g. BA; BS)
+Page_15_SurveyPage_Question7_radio,2
+Page_15_SurveyPage_Question8_radio,1
+Page_15_SurveyPage_Question9_radio,2
+Page_15_SurveyPage_Question10_radio,2
+Page_15_SurveyPage_Question11_checkbox,0
+Page_15_SurveyPage_Question12_radio,7
+Page_15_SurveyPage_Question13_checkbox,none
+Page_15_SurveyPage_Question14_radio,5
+Page_15_SurveyPage_Question15_textarea,I don't want my ability to control my mobility device to be taken out of my hands; it is very uncomfortable for me. I need to feel in control so I can respond to the unpredictability of my environment.
+Page_15_SurveyPage_Question16_radio,Yes

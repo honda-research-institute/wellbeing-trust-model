@@ -1,0 +1,7 @@
+name,value
+mTurkID, p230
+subID,152
+drive_name,tutorial
+drive_index,0
+time_date,Fri Feb 10 2023 15:56:16 GMT-1000 (Hawaii-Aleutian Standard Time)
+Page_7_SurveyPage_Question1_radio,yes

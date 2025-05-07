@@ -1,0 +1,7 @@
+name,value
+mTurkID, p55
+subID,180
+drive_name,tutorial
+drive_index,0
+time_date,Fri Feb 10 2023 21:15:40 GMT-0500 (Eastern Standard Time)
+Page_7_SurveyPage_Question1_radio,yes

@@ -1,0 +1,24 @@
+name,value
+mTurkID, p13
+subID,129
+drive_name,4301
+drive_index,2
+time_date,Fri Feb 10 2023 19:33:23 GMT-0600 (Central Standard Time)
+Page_15_SurveyPage_Question1_radio,Orange
+Page_15_SurveyPage_Question2_text,segway
+Page_15_SurveyPage_Question3_radio,26-35
+Page_15_SurveyPage_Question4_radio,Female
+Page_15_SurveyPage_Question5_radio,Medicine
+Page_15_SurveyPage_Question6_radio,Master's_degree (e.g. MA; MS; MEd)
+Page_15_SurveyPage_Question7_radio,2
+Page_15_SurveyPage_Question8_radio,2
+Page_15_SurveyPage_Question9_radio,2
+Page_15_SurveyPage_Question10_radio,2
+Page_15_SurveyPage_Question11_checkbox,1
+Page_15_SurveyPage_Question11_checkbox,2
+Page_15_SurveyPage_Question11_checkbox,4
+Page_15_SurveyPage_Question12_radio,7
+Page_15_SurveyPage_Question13_checkbox,Electricscooter
+Page_15_SurveyPage_Question14_radio,4
+Page_15_SurveyPage_Question15_textarea,no
+Page_15_SurveyPage_Question16_radio,Yes

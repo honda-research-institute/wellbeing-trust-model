@@ -1,0 +1,17 @@
+name,value
+mTurkID, p242
+subID,155
+drive_name,
+drive_index,0
+time_date,Fri Feb 10 2023 18:59:12 GMT-0700 (Mountain Standard Time)
+Page_3_SurveyPage_Question1_radio,3
+Page_3_SurveyPage_Question2_radio,3
+Page_3_SurveyPage_Question3_radio,2
+Page_3_SurveyPage_Question4_radio,2
+Page_3_SurveyPage_Question5_radio,6
+Page_3_SurveyPage_Question6_radio,2
+Page_3_SurveyPage_Question7_radio,3
+Page_3_SurveyPage_Question8_radio,6
+Page_3_SurveyPage_Question9_radio,5
+Page_3_SurveyPage_Question10_radio,2
+Page_3_SurveyPage_Question11_radio,0

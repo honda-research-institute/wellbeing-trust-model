@@ -1,0 +1,55 @@
+sys_timestamp,vid_timestamp,event_name,key_number,pause_num,next_pause_vid_ts
+1676509359117,71,video_keydown,s,3,-1
+1676509359242,71,video_keyup,s,3,-1
+1676509359346,71,video_keydown,e,3,-1
+1676509359417,71,video_keydown,l,3,-1
+1676509359458,71,video_keyup,e,3,-1
+1676509359575,71,video_keyup,l,3,-1
+1676509359600,71,video_keydown,f,3,-1
+1676509359720,71,video_keyup,f,3,-1
+1676509359723,71,video_keydown, ,3,-1
+1676509359900,71,video_keyup, ,3,-1
+1676509360195,71,video_keydown,d,3,-1
+1676509360342,71,video_keyup,d,3,-1
+1676509360529,71,video_keydown,r,3,-1
+1676509360647,71,video_keyup,r,3,-1
+1676509360705,71,video_keydown,i,3,-1
+1676509360787,71,video_keyup,i,3,-1
+1676509360878,71,video_keydown,v,3,-1
+1676509360933,71,video_keydown,i,3,-1
+1676509360980,71,video_keyup,v,3,-1
+1676509361015,71,video_keyup,i,3,-1
+1676509361119,71,video_keydown,n,3,-1
+1676509361188,71,video_keydown,g,3,-1
+1676509361243,71,video_keyup,n,3,-1
+1676509361283,71,video_keyup,g,3,-1
+1676509361361,71,video_keydown, ,3,-1
+1676509361508,71,video_keyup, ,3,-1
+1676509361540,71,video_keydown,s,3,-1
+1676509361665,71,video_keyup,s,3,-1
+1676509361838,71,video_keydown,c,3,-1
+1676509361952,71,video_keyup,c,3,-1
+1676509362058,71,video_keydown,o,3,-1
+1676509362127,71,video_keyup,o,3,-1
+1676509362218,71,video_keydown,o,3,-1
+1676509362332,71,video_keyup,o,3,-1
+1676509362371,71,video_keydown,t,3,-1
+1676509362479,71,video_keyup,t,3,-1
+1676509362602,71,video_keydown,e,3,-1
+1676509362682,71,video_keydown,r,3,-1
+1676509362740,71,video_keyup,e,3,-1
+1676509362798,71,video_keyup,r,3,-1
+1676509384088,71,video_keydown,Shift,3,-1
+1676509384148,71,video_keydown,R,3,-1
+1676509384253,71,video_keyup,R,3,-1
+1676509384286,71,video_keyup,Shift,3,-1
+1676509384304,71,video_keydown,e,3,-1
+1676509384429,71,video_keyup,e,3,-1
+1676509384532,71,video_keydown,t,3,-1
+1676509384601,71,video_keyup,t,3,-1
+1676509384743,71,video_keydown,a,3,-1
+1676509384805,71,video_keydown,i,3,-1
+1676509384866,71,video_keyup,a,3,-1
+1676509384895,71,video_keyup,i,3,-1
+1676509385017,71,video_keydown,l,3,-1
+1676509385128,71,video_keyup,l,3,-1

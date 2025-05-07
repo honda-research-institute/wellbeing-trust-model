@@ -1,0 +1,11 @@
+sys_timestamp,event_timestamp,event_name,pause_num
+1675122230274,304590.00000000006,web_survey/CommitmentCheck_completed,6
+1675122233689,308016,mainexperimentintro_done,6
+1675122233691,308016,[object MouseEvent],0
+1675122244687,319015,video_preload_completed,0
+1675122265129,339447,survey1_start,1
+1675122350648,424969,survey1_done,1
+1675122387282,461604,intention_start,2
+1675122392265,466587,intention_done,2
+1675122407823,482146,survey2_start,3
+1675122462644,536970,survey2_done,3

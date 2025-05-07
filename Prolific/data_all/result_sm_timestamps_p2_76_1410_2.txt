@@ -1,0 +1,3 @@
+sys_timestamp,event_timestamp,event_name,pause_num
+1675124660841,1756188.7,finalexpriment_done,3
+1675124660844,1756188.7,[object PointerEvent],3

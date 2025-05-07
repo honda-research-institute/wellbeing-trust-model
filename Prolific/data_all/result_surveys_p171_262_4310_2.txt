@@ -1,0 +1,19 @@
+name,value
+mTurkID, p171
+subID,262
+drive_name,4310
+drive_index,2
+time_date,Wed Feb 15 2023 16:25:05 GMT-0800 (Pacific Standard Time)
+Page_15_SurveyPage_Question1_radio,Orange
+Page_15_SurveyPage_Question2_text,e scooter
+Page_15_SurveyPage_Question3_radio, 56
+Page_15_SurveyPage_Question4_radio,Male
+Page_15_SurveyPage_Question5_radio,Technology
+Page_15_SurveyPage_Question6_radio,Master's_degree (e.g. MA; MS; MEd)
+Page_15_SurveyPage_Question7_radio,2
+Page_15_SurveyPage_Question8_radio,2
+Page_15_SurveyPage_Question9_radio,2
+Page_15_SurveyPage_Question10_radio,2
+Page_15_SurveyPage_Question11_checkbox,0
+Page_15_SurveyPage_Question13_checkbox,none
+Page_15_SurveyPage_Question16_radio,Yes

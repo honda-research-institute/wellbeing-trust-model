@@ -1,0 +1,23 @@
+name,value
+mTurkID, p29
+subID,206
+drive_name,1410
+drive_index,2
+time_date,Sat Feb 11 2023 02:28:36 GMT 0000 (Coordinated Universal Time)
+Page_15_SurveyPage_Question1_radio,Orange
+Page_15_SurveyPage_Question2_text,Self driving scooter
+Page_15_SurveyPage_Question3_radio, 56
+Page_15_SurveyPage_Question4_radio,Male
+Page_15_SurveyPage_Question5_radio,Other
+Page_15_SurveyPage_Question5_text,Sales
+Page_15_SurveyPage_Question6_radio,Associate degree
+Page_15_SurveyPage_Question7_radio,1
+Page_15_SurveyPage_Question8_radio,1
+Page_15_SurveyPage_Question9_radio,1
+Page_15_SurveyPage_Question10_radio,1
+Page_15_SurveyPage_Question11_checkbox,1
+Page_15_SurveyPage_Question12_radio,4
+Page_15_SurveyPage_Question13_checkbox,none
+Page_15_SurveyPage_Question14_radio,3
+Page_15_SurveyPage_Question15_textarea,I don't like automated vegicles. Even scooters
+Page_15_SurveyPage_Question16_radio,Yes

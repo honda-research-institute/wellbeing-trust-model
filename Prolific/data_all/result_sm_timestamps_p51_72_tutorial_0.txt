@@ -1,0 +1,17 @@
+sys_timestamp,event_timestamp,event_name,pause_num
+1675123299515,573278,web_survey/InitialPositiveRelation_completed,-1
+1675123309910,583654,tutorial_preload_completed,0
+1675123309912,583654,tutorial_welcome_start,0
+1675123309913,583654,tutorial_welcome_start,0
+1675123316030,589785,tutorial_welcome_end,0
+1675123316265,590029,tutorial_speed_start,1
+1675123321503,595259,tutorial_speed_done,1
+1675123330102,603866,tutorial_sideuser,2
+1675123358758,632512,tutorial_sideuser_done,2
+1675123370047,643810,tutorial_interaction_intention,3
+1675123392307,666071,tutorial_interaction_intention_done,3
+1675123395065,668829,tutorial_survey_start,4
+1675123422353,696117,tutorial_survey_done,4
+1675123437368,711132,spacebar_start,5
+1675123447949,721698,spacebar_done,5
+1675123455952,729717,tutorial_end_start,6

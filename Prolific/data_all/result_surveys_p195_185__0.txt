@@ -1,0 +1,17 @@
+name,value
+mTurkID, p195
+subID,185
+drive_name,
+drive_index,0
+time_date,Fri Feb 10 2023 22:17:34 GMT-0400 (Bolivia Time)
+Page_3_SurveyPage_Question1_radio,5
+Page_3_SurveyPage_Question2_radio,5
+Page_3_SurveyPage_Question3_radio,5
+Page_3_SurveyPage_Question4_radio,5
+Page_3_SurveyPage_Question5_radio,5
+Page_3_SurveyPage_Question6_radio,5
+Page_3_SurveyPage_Question7_radio,5
+Page_3_SurveyPage_Question8_radio,5
+Page_3_SurveyPage_Question9_radio,5
+Page_3_SurveyPage_Question10_radio,5
+Page_3_SurveyPage_Question11_radio,0

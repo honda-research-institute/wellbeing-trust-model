@@ -1,0 +1,22 @@
+name,value
+mTurkID, p286
+subID,194
+drive_name,4300
+drive_index,2
+time_date,Fri Feb 10 2023 21:23:11 GMT-0500 (Eastern Standard Time)
+Page_15_SurveyPage_Question1_radio,Blue
+Page_15_SurveyPage_Question2_text,Scooter
+Page_15_SurveyPage_Question3_radio,36-45
+Page_15_SurveyPage_Question4_radio,Male
+Page_15_SurveyPage_Question5_radio,Medicine
+Page_15_SurveyPage_Question6_radio,Associate degree
+Page_15_SurveyPage_Question7_radio,2
+Page_15_SurveyPage_Question8_radio,0
+Page_15_SurveyPage_Question9_radio,0
+Page_15_SurveyPage_Question10_radio,0
+Page_15_SurveyPage_Question11_checkbox,1
+Page_15_SurveyPage_Question12_radio,3
+Page_15_SurveyPage_Question13_checkbox,none
+Page_15_SurveyPage_Question14_radio,2
+Page_15_SurveyPage_Question15_textarea,Thank you for the survey. Please consider me for additional surveys.
+Page_15_SurveyPage_Question16_radio,Yes

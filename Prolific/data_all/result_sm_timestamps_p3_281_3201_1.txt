@@ -1,0 +1,10 @@
+sys_timestamp,event_timestamp,event_name,pause_num
+1676507601201,485284,secondexperimentintro_done,3
+1676507601202,485284,[object PointerEvent],0
+1676507638995,523075,video_preload_completed,0
+1676507662425,546515,survey1_start,1
+1676507691522,575612,survey1_done,1
+1676507706656,590746,intention_start,2
+1676507711948,596039,intention_done,2
+1676507724158,608248,survey2_start,3
+1676507752776,636866,survey2_done,3

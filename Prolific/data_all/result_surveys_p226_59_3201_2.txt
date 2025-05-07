@@ -1,0 +1,24 @@
+name,value
+mTurkID, p226
+subID,59
+drive_name,3201
+drive_index,2
+time_date,Mon Jan 30 2023 17:44:13 GMT-0600 (Central Standard Time)
+Page_15_SurveyPage_Question1_radio,Blue
+Page_15_SurveyPage_Question2_text,Self driving segway scooter
+Page_15_SurveyPage_Question3_radio,18-25
+Page_15_SurveyPage_Question4_radio,Male
+Page_15_SurveyPage_Question5_radio,Technology
+Page_15_SurveyPage_Question6_radio,Associate degree
+Page_15_SurveyPage_Question7_radio,0
+Page_15_SurveyPage_Question8_radio,1
+Page_15_SurveyPage_Question9_radio,0
+Page_15_SurveyPage_Question10_radio,1
+Page_15_SurveyPage_Question11_checkbox,1
+Page_15_SurveyPage_Question12_radio,3
+Page_15_SurveyPage_Question13_checkbox,Electricscooter
+Page_15_SurveyPage_Question13_checkbox,Electric_bike
+Page_15_SurveyPage_Question13_checkbox,Segway
+Page_15_SurveyPage_Question14_radio,5
+Page_15_SurveyPage_Question15_textarea,I have 3 issues with this study. First and foremost being the unrealistic sidewalks. I don't know if this was meant to be outside the United States; but the standard US sidewalk is barely wide enough for 2 people. Much less scooters and delivery bots.   Second is that the delivery bots (which by the way dont exist in this capacity in the real world yet) were painfully stupid. Why does a robot carrying only stuff not yield to human beings. At no point should a human being have to slow down or break because a delivery bot is doing something stupid. It was hard to judge the situations accurately because in the real world there are no delivery bots doing stupid things constantly. 
+Page_15_SurveyPage_Question16_radio,Yes

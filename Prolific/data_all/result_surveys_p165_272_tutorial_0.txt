@@ -1,0 +1,10 @@
+name,value
+mTurkID, p165
+subID,272
+drive_name,tutorial
+drive_index,0
+time_date,Wed Feb 15 2023 19:25:15 GMT-0500 (Eastern Standard Time)
+Page_6_tutorial_Question_Intersection_0_Intention_radio,1
+Page_6_tutorial_Question_Intersection_0_trust_radio,5
+Page_6_tutorial_Question_Intersection_0_reliable_radio,5
+Page_6_tutorial_Question_Intersection_0_positive relation_radio,6

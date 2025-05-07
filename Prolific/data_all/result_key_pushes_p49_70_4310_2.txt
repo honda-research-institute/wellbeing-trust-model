@@ -1,0 +1,35 @@
+sys_timestamp,vid_timestamp,event_name,key_number,pause_num,next_pause_vid_ts
+1675123259897,60,video_keydown,s,3,-1
+1675123259980,60,video_keyup,s,3,-1
+1675123260121,60,video_keydown,e,3,-1
+1675123260196,60,video_keyup,e,3,-1
+1675123260398,60,video_keydown,l,3,-1
+1675123260526,60,video_keyup,l,3,-1
+1675123260859,60,video_keydown,f,3,-1
+1675123260971,60,video_keyup,f,3,-1
+1675123261113,60,video_keydown, ,3,-1
+1675123261241,60,video_keyup, ,3,-1
+1675123261360,60,video_keydown,d,3,-1
+1675123261488,60,video_keyup,d,3,-1
+1675123261522,60,video_keydown,r,3,-1
+1675123261662,60,video_keyup,r,3,-1
+1675123261665,60,video_keydown,i,3,-1
+1675123261795,60,video_keyup,i,3,-1
+1675123261918,60,video_keydown,i,3,-1
+1675123262047,60,video_keyup,i,3,-1
+1675123262307,60,video_keydown,Backspace,3,-1
+1675123262398,60,video_keyup,Backspace,3,-1
+1675123264447,60,video_keydown,s,3,-1
+1675123264591,60,video_keyup,s,3,-1
+1675123264652,60,video_keydown,c,3,-1
+1675123264763,60,video_keyup,c,3,-1
+1675123264921,60,video_keydown,o,3,-1
+1675123265020,60,video_keyup,o,3,-1
+1675123265100,60,video_keydown,o,3,-1
+1675123265228,60,video_keydown,t,3,-1
+1675123265235,60,video_keyup,o,3,-1
+1675123265312,60,video_keyup,t,3,-1
+1675123265514,60,video_keydown,e,3,-1
+1675123265702,60,video_keydown,r,3,-1
+1675123265708,60,video_keyup,e,3,-1
+1675123265817,60,video_keyup,r,3,-1

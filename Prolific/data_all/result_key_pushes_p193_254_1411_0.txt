@@ -1,0 +1,54 @@
+sys_timestamp,vid_timestamp,event_name,key_number,pause_num,next_pause_vid_ts
+1676507278178,7.402625,video_keydown,AudioVolumeUp,0,-1
+1676507278184,7.448229,video_keyup,AudioVolumeUp,0,-1
+1676507278185,7.448229,video_keydown,AudioVolumeUp,0,-1
+1676507278185,7.448229,video_keyup,AudioVolumeUp,0,-1
+1676507278269,7.49527,video_keydown,AudioVolumeUp,0,-1
+1676507278274,7.54075,video_keyup,AudioVolumeUp,0,-1
+1676507278284,7.54075,video_keydown,AudioVolumeUp,0,-1
+1676507278286,7.54075,video_keyup,AudioVolumeUp,0,-1
+1676507278381,7.633312,video_keydown,AudioVolumeUp,0,-1
+1676507278384,7.633312,video_keyup,AudioVolumeUp,0,-1
+1676507279378,8.603854,video_keydown,AudioVolumeUp,0,-1
+1676507279381,8.603854,video_keyup,AudioVolumeUp,0,-1
+1676507279435,8.697062,video_keydown,AudioVolumeUp,0,-1
+1676507279437,8.697062,video_keyup,AudioVolumeUp,0,-1
+1676507279971,9.206854,video_keydown,AudioVolumeDown,0,-1
+1676507279976,9.206854,video_keyup,AudioVolumeDown,0,-1
+1676507280606,9.854708,video_keydown, ,0,-1
+1676507280746,9.99325,video_keyup, ,0,-1
+1676507281248,10.500687,video_keydown, ,0,-1
+1676507281757,11.009208,video_keydown, ,0,-1
+1676507281787,11.055,video_keydown, ,0,-1
+1676507281818,11.055,video_keydown, ,0,-1
+1676507281849,11.100916,video_keydown, ,0,-1
+1676507281894,11.147354,video_keydown, ,0,-1
+1676507281925,11.193,video_keydown, ,0,-1
+1676507281957,11.193,video_keydown, ,0,-1
+1676507281989,11.239333,video_keydown, ,0,-1
+1676507282019,11.28552,video_keydown, ,0,-1
+1676507282051,11.28552,video_keydown, ,0,-1
+1676507282080,11.331979,video_keydown, ,0,-1
+1676507282127,11.378208,video_keydown, ,0,-1
+1676507282158,11.425,video_keydown, ,0,-1
+1676507282193,11.425,video_keydown, ,0,-1
+1676507282222,11.47125,video_keydown, ,0,-1
+1676507282250,11.517541,video_keydown, ,0,-1
+1676507282281,11.517541,video_keydown, ,0,-1
+1676507282311,11.56375,video_keydown, ,0,-1
+1676507282344,11.610229,video_keydown, ,0,-1
+1676507282389,11.6565,video_keydown, ,0,-1
+1676507282421,11.6565,video_keydown, ,0,-1
+1676507282452,11.702729,video_keydown, ,0,-1
+1676507282482,11.749333,video_keydown, ,0,-1
+1676507282514,11.749333,video_keydown, ,0,-1
+1676507282545,11.795729,video_keydown, ,0,-1
+1676507282575,11.84177,video_keydown, ,0,-1
+1676507282623,11.887833,video_keydown, ,0,-1
+1676507282653,11.887833,video_keydown, ,0,-1
+1676507282683,11.934229,video_keydown, ,0,-1
+1676507282714,11.981041,video_keydown, ,0,-1
+1676507282746,11.981041,video_keydown, ,0,-1
+1676507282775,12.027333,video_keydown, ,0,-1
+1676507282806,12.073333,video_keydown, ,0,-1
+1676507282839,12.073333,video_keyup, ,0,-1

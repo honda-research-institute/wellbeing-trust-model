@@ -1,0 +1,10 @@
+name,value
+mTurkID, p29
+subID,206
+drive_name,tutorial
+drive_index,0
+time_date,Sat Feb 11 2023 02:28:36 GMT 0000 (Coordinated Universal Time)
+Page_6_tutorial_Question_Intersection_0_Intention_radio,1
+Page_6_tutorial_Question_Intersection_0_trust_radio,5
+Page_6_tutorial_Question_Intersection_0_reliable_radio,5
+Page_6_tutorial_Question_Intersection_0_positive relation_radio,5

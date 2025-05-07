@@ -1,0 +1,3 @@
+sys_timestamp,event_timestamp,event_name,pause_num
+1676507517948,421673,finalexpriment_done,3
+1676507517948,421673,[object MouseEvent],3

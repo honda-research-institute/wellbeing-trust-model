@@ -1,0 +1,21 @@
+name,value
+mTurkID, p299
+subID,257
+drive_name,4301
+drive_index,2
+time_date,Wed Feb 15 2023 16:25:01 GMT-0800 (Pacific Standard Time)
+Page_15_SurveyPage_Question1_radio,Orange
+Page_15_SurveyPage_Question2_text,Self-driving scooter
+Page_15_SurveyPage_Question3_radio,26-35
+Page_15_SurveyPage_Question4_radio,Female
+Page_15_SurveyPage_Question5_radio,Other
+Page_15_SurveyPage_Question5_text,Nursing
+Page_15_SurveyPage_Question6_radio,Bachelor's_degree(e.g. BA; BS)
+Page_15_SurveyPage_Question7_radio,0
+Page_15_SurveyPage_Question8_radio,0
+Page_15_SurveyPage_Question9_radio,1
+Page_15_SurveyPage_Question10_radio,1
+Page_15_SurveyPage_Question11_checkbox,0
+Page_15_SurveyPage_Question13_checkbox,none
+Page_15_SurveyPage_Question15_textarea,Not feedback; per se. In regards to the question about the color of the delivery robot; I honestly don't remember. Maybe the color settings on my screen might be different; but I think the delivery robot appeared to be yellow; not orange.
+Page_15_SurveyPage_Question16_radio,Yes

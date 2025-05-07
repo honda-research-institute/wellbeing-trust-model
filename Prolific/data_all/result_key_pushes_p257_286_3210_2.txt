@@ -1,0 +1,105 @@
+sys_timestamp,vid_timestamp,event_name,key_number,pause_num,next_pause_vid_ts
+1676507970096,45,video_keydown,Shift,3,-1
+1676507970216,45,video_keydown,E,3,-1
+1676507970306,45,video_keyup,E,3,-1
+1676507970306,45,video_keyup,Shift,3,-1
+1676507970504,45,video_keydown,l,3,-1
+1676507970587,45,video_keyup,l,3,-1
+1676507970628,45,video_keydown,e,3,-1
+1676507970698,45,video_keyup,e,3,-1
+1676507970838,45,video_keydown,c,3,-1
+1676507970908,45,video_keyup,c,3,-1
+1676507971020,45,video_keydown,t,3,-1
+1676507971102,45,video_keyup,t,3,-1
+1676507971214,45,video_keydown,r,3,-1
+1676507971296,45,video_keyup,r,3,-1
+1676507971344,45,video_keydown,i,3,-1
+1676507971418,45,video_keyup,i,3,-1
+1676507971522,45,video_keydown,c,3,-1
+1676507971604,45,video_keyup,c,3,-1
+1676507971616,45,video_keydown, ,3,-1
+1676507971696,45,video_keyup, ,3,-1
+1676507971868,45,video_keydown,s,3,-1
+1676507971968,45,video_keyup,s,3,-1
+1676507972072,45,video_keydown, ,3,-1
+1676507972146,45,video_keyup, ,3,-1
+1676507972172,45,video_keydown,o,3,-1
+1676507972236,45,video_keyup,o,3,-1
+1676507972524,45,video_keydown,Backspace,3,-1
+1676507972590,45,video_keyup,Backspace,3,-1
+1676507972684,45,video_keydown,Backspace,3,-1
+1676507972766,45,video_keyup,Backspace,3,-1
+1676507972924,45,video_keydown,c,3,-1
+1676507973010,45,video_keyup,c,3,-1
+1676507973054,45,video_keydown,o,3,-1
+1676507973140,45,video_keyup,o,3,-1
+1676507973248,45,video_keydown,o,3,-1
+1676507973322,45,video_keyup,o,3,-1
+1676507973380,45,video_keydown,t,3,-1
+1676507973483,45,video_keyup,t,3,-1
+1676507973534,45,video_keydown,e,3,-1
+1676507973646,45,video_keydown,r,3,-1
+1676507973676,45,video_keyup,e,3,-1
+1676507973729,45,video_keyup,r,3,-1
+1676507985811,45,video_keydown,Shift,3,-1
+1676507985896,45,video_keydown,H,3,-1
+1676507985971,45,video_keyup,H,3,-1
+1676507985988,45,video_keyup,Shift,3,-1
+1676507986090,45,video_keydown,o,3,-1
+1676507986181,45,video_keydown,m,3,-1
+1676507986216,45,video_keyup,o,3,-1
+1676507986294,45,video_keyup,m,3,-1
+1676507986294,45,video_keydown,e,3,-1
+1676507986357,45,video_keyup,e,3,-1
+1676507986407,45,video_keydown, ,3,-1
+1676507986483,45,video_keyup, ,3,-1
+1676507987138,45,video_keydown,m,3,-1
+1676507987206,45,video_keyup,m,3,-1
+1676507987251,45,video_keydown,a,3,-1
+1676507987346,45,video_keydown,k,3,-1
+1676507987378,45,video_keyup,a,3,-1
+1676507987418,45,video_keyup,k,3,-1
+1676507987452,45,video_keydown,e,3,-1
+1676507987578,45,video_keydown,r,3,-1
+1676507987608,45,video_keyup,e,3,-1
+1676507987663,45,video_keyup,r,3,-1
+1676508073363,45,video_keydown,Shift,3,-1
+1676508073475,45,video_keydown,I,3,-1
+1676508073529,45,video_keyup,I,3,-1
+1676508073563,45,video_keyup,Shift,3,-1
+1676508073639,45,video_keydown, ,3,-1
+1676508073742,45,video_keyup, ,3,-1
+1676508073815,45,video_keydown,h,3,-1
+1676508073883,45,video_keydown,a,3,-1
+1676508073912,45,video_keyup,h,3,-1
+1676508074022,45,video_keyup,a,3,-1
+1676508074069,45,video_keydown,v,3,-1
+1676508074104,45,video_keyup,v,3,-1
+1676508074169,45,video_keydown,e,3,-1
+1676508074266,45,video_keyup,e,3,-1
+1676508074307,45,video_keydown, ,3,-1
+1676508074386,45,video_keyup, ,3,-1
+1676508074429,45,video_keydown,n,3,-1
+1676508074533,45,video_keydown,o,3,-1
+1676508074566,45,video_keyup,n,3,-1
+1676508074614,45,video_keyup,o,3,-1
+1676508074722,45,video_keydown, ,3,-1
+1676508074804,45,video_keyup, ,3,-1
+1676508075098,45,video_keydown,f,3,-1
+1676508075178,45,video_keyup,f,3,-1
+1676508075299,45,video_keydown,e,3,-1
+1676508075365,45,video_keyup,e,3,-1
+1676508075471,45,video_keydown,e,3,-1
+1676508075529,45,video_keyup,e,3,-1
+1676508075649,45,video_keydown,d,3,-1
+1676508075723,45,video_keyup,d,3,-1
+1676508075851,45,video_keydown,b,3,-1
+1676508075943,45,video_keyup,b,3,-1
+1676508075974,45,video_keydown,a,3,-1
+1676508076093,45,video_keyup,a,3,-1
+1676508076187,45,video_keydown,c,3,-1
+1676508076270,45,video_keydown,k,3,-1
+1676508076273,45,video_keyup,c,3,-1
+1676508076331,45,video_keyup,k,3,-1
+1676508076499,45,video_keydown,.,3,-1
+1676508076545,45,video_keyup,.,3,-1
