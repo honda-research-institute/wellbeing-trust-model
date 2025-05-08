@@ -1,9 +1,0 @@
-name,value
-mTurkID, p29
-subID,206
-drive_name,
-drive_index,0
-time_date,Sat Feb 11 2023 02:28:36 GMT 0000 (Coordinated Universal Time)
-Page_4_SurveyPage_Question1_radio,5
-Page_4_SurveyPage_Question2_radio,5
-Page_4_SurveyPage_Question3_radio,4

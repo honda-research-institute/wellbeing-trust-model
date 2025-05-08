@@ -1,9 +1,0 @@
-name,value
-mTurkID, p141
-subID,191
-drive_name,
-drive_index,0
-time_date,Fri Feb 10 2023 19:21:57 GMT-0700 (Mountain Standard Time)
-Page_4_SurveyPage_Question1_radio,5
-Page_4_SurveyPage_Question2_radio,5
-Page_4_SurveyPage_Question3_radio,4

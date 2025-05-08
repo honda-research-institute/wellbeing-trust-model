@@ -1,6 +1,0 @@
-name,value
-mTurkID, p134
-subID,268
-drive_name,
-drive_index,0
-time_date,Wed Feb 15 2023 18:25:13 GMT-0600 (Central Standard Time)

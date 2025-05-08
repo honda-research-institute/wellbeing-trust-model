@@ -1,9 +1,0 @@
-name,value
-mTurkID, p43
-subID,179
-drive_name,
-drive_index,0
-time_date,Fri Feb 10 2023 20:14:26 GMT-0600 (Central Standard Time)
-Page_4_SurveyPage_Question1_radio,5
-Page_4_SurveyPage_Question2_radio,5
-Page_4_SurveyPage_Question3_radio,4

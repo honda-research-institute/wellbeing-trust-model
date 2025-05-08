@@ -1,9 +1,0 @@
-name,value
-mTurkID, p99
-subID,87
-drive_name,
-drive_index,0
-time_date,Tue Jan 31 2023 10:24:10 GMT-0800 (Pacific Standard Time)
-Page_4_SurveyPage_Question1_radio,2
-Page_4_SurveyPage_Question2_radio,1
-Page_4_SurveyPage_Question3_radio,2

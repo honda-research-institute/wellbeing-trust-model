@@ -1,7 +1,0 @@
-name,value
-mTurkID, p241
-subID,168
-drive_name,tutorial
-drive_index,0
-time_date,Fri Feb 10 2023 20:05:59 GMT-0600 (Central Standard Time)
-Page_7_SurveyPage_Question1_radio,yes
