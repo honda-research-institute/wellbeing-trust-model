@@ -1,6 +1,10 @@
-# Computational Model of Wellbeing and Trust
+# Toward Informed AV Decision-Making: Computational Model of Well-being and Trust in Mobility -- IJCAI 2025 (HAI track)
 
-A Python implementation of dynamic Bayesian networks (DBN) and causal influence models (CIM) for inferring user wellbeing, trust, and intention in autonomous vehicle (AV) scenarios. Includes data preprocessing, model inference, statistical analysis, and visualization scripts.
+This is the official repository for paper "Toward Informed AV Decision-Making: Computational Model of Well-being and Trust in Mobility" by Zahra Zahedi, Shashank Mehrotra, Teruhisa Misu and Kumar Akash, IJCAI-25, Special Track on: Human-Centered Artificial Intelligence.
+
+## Description
+
+This repository contains the data and the codes described in the paper. It is a Python implementation of dynamic Bayesian networks (DBN) and causal influence models (CIM) for inferring user wellbeing, trust, and intention in autonomous vehicle (AV) scenarios. Includes data preprocessing, model inference, statistical analysis, and visualization scripts.
 
 ## Project Structure
 
