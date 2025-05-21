@@ -1,6 +1,8 @@
 # Toward Informed AV Decision-Making: Computational Model of Well-being and Trust in Mobility -- IJCAI 2025 (HAI track)
 
-This is the official repository for paper "Toward Informed AV Decision-Making: Computational Model of Well-being and Trust in Mobility" by Zahra Zahedi, Shashank Mehrotra, Teruhisa Misu and Kumar Akash, IJCAI-25, Special Track on: Human-Centered Artificial Intelligence.
+This is the official repository for paper "Toward Informed AV Decision-Making: Computational Model of Well-being and Trust in Mobility" by Zahra Zahedi, Shashank Mehrotra, Teruhisa Misu and Kumar Akash, IJCAI-25, Special Track on: Human-Centered Artificial Intelligence. <a href="linktopaper" target="_blank">
+  <img src="https://img.shields.io/badge/Paper-IJCAI25-darkcyan.svg" alt="Paper" style="max-width: 100%;">
+</a>
 
 ## Description
 
